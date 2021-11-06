@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **FarhadAliev/FarhadAliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadAliev&layout=compact)](https://github.com/FarhadAliev/github-readme-stats)
