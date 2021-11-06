@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [Hi [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>](https://www.linkedin.com/in/farhad-aliyev/)
-]
+ Hi [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>](https://www.linkedin.com/in/farhad-aliyev/)
+
    
    
    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true)
