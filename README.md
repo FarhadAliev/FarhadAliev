@@ -20,18 +20,9 @@ Here are some ideas to get you started:
 
 
 <div align="center" display="flex">
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true" align = "center"/>
-<img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarhadAliev&theme=merko" align = "center"/>
+<img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true" align = "center"/>
+<img height="180em" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarhadAliev&theme=merko" align = "center"/>
 </div>
 
 
-<table width="100%" >
-  <tr width="100%">
-    <td width="100%">
-   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true" align = "center"/>
-   </td>
-    <td width="100%">
-   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true" align = "center"/>
-   </td>
-  </tr>
-</table>
+
