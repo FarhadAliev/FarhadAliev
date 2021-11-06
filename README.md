@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarhadAliev&theme=merko) </div>
+
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarhadAliev&theme=merko)
 
 
 
