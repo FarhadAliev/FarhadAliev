@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[<img src="https://image.similarpng.com/very-thumbnail/2020/05/Linkedin-logo-with-brush-PNG.png" width="25"/>](https://github.com/FarhadAliev/repository/subscription)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="25"/>](https://github.com/FarhadAliev/repository/subscription)
 
 
 ![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true)
