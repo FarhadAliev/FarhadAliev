@@ -25,4 +25,13 @@ Here are some ideas to get you started:
 </div>
 
 
-
+<table width="100%" >
+  <tr width="100%">
+    <td width="50%">
+   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true" align = "center"/>
+   </td>
+    <td width="50%">
+   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true" align = "center"/>
+   </td>
+  </tr>
+</table>
