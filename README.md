@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
+<div align="center" display="flex">
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true" align = "center"/>
 <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarhadAliev&theme=merko" align = "center"/>
 </div>
