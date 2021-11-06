@@ -16,20 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div class="actions button-container">
-    <a href="#" class="button primary">Compose new</a>
 
-    <div class="button-group">
-        <a href="#" class="button primary">Archive</a>
-        <a href="#" class="button">Report spam</a>
-        <a href="#" class="button danger">Delete</a>
-    </div>
-
-    <div class="button-group minor-group">
-        <a href="#" class="button">Move to</a>
-        <a href="#" class="button">Labels</a>
-    </div>
-</div>
 
 
 ![Farhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhadAliev&theme=merko&show_icons=true)
